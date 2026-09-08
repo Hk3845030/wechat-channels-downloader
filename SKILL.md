@@ -37,7 +37,7 @@
 
 ## 上游仓库
 
-源码与历史：https://github.com/<你的用户名>/wechat-channels-downloader
+源码与历史：https://github.com/Hk3845030/wechat-channels-downloader
 
 详细使用说明见：https://skillhub.cn/skills/wechat-channels-downloader
 
