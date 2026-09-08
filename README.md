@@ -1,3 +1,10 @@
+> [!WARNING]
+> **本仓库仅为 SkillHub 技能索引绑定仓，不含可运行代码。**
+>
+> 完整安装包、脚本与文档请在 SkillHub 获取：
+>
+> **https://skillhub.cn/skills/wechat-channels-downloader**
+
 # 视频号视频一键下载
 
 > SkillHub 上架的 SKILL：一键下载你有权处理的微信视频号视频到本地。
